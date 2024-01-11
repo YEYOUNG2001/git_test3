@@ -1,0 +1,34 @@
+#sidebar_left {
+    width: 170px;
+    height: min-content;
+    float: left;
+    text-align: left;
+    font-size: 90%;
+}
+
+#sidebar_right {
+    width: 200px;
+    height: min-content;
+    float: right;
+    text-align: right;
+    font-size: 90%;
+}
+
+#bottomline1 {
+    position: fixed;
+    bottom: 60px;
+}
+
+#bottomline2 {
+    position: fixed;
+    bottom: 15px;
+    left: 20px;
+    font-size: 90%;
+}
+
+#bottomline3 {
+    position: fixed;
+    bottom: 15px;
+    right: 40px;
+    font-size: 90%;
+}
